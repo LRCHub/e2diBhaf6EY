@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Love Me Like You Do",
+  "base_artist": "Twin & Jessica Chertock",
+  "createdAt": "2026-03-24T14:29:45.885594Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Me Like You Do",
+      "artist": "Gabrielle",
+      "has_synced": false,
+      "path": "select/01_Love_Me_Like_You_Do_Gabrielle.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Me Like You Do",
+      "artist": "Cyrus",
+      "has_synced": true,
+      "path": "select/02_Love_Me_Like_You_Do_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/03_Love_Me_Like_You_Do_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Me Like You Do",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/04_Love_Me_Like_You_Do_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Me Like You Do",
+      "artist": "Night Tempo",
+      "has_synced": true,
+      "path": "select/05_Love_Me_Like_You_Do_Night_Tempo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/06_Love_Me_Like_You_Do_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/07_Love_Me_Like_You_Do_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "love me like you do",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/08_love_me_like_you_do_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/09_Love_Me_Like_You_Do_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/10_Love_Me_Like_You_Do_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Me Like You Do",
+      "artist": "Beth",
+      "has_synced": false,
+      "path": "select/11_Love_Me_Like_You_Do_Beth.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/12_Love_Me_Like_You_Do_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/13_Love_Me_Like_You_Do_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/14_Love_Me_Like_You_Do_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Me Like You Do",
+      "artist": "Cyrus Villanueva",
+      "has_synced": true,
+      "path": "select/15_Love_Me_Like_You_Do_Cyrus_Villanueva.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/16_Love_Me_Like_You_Do_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Love Me Like You Do",
+      "artist": "Ruth",
+      "has_synced": true,
+      "path": "select/17_Love_Me_Like_You_Do_Ruth.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Love Me Like You Do",
+      "artist": "Twin & Jessica Chertock",
+      "has_synced": true,
+      "path": "select/18_Love_Me_Like_You_Do_Twin_&_Jessica_Chertock.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/19_Love_Me_Like_You_Do_Ellie_Goulding.lrc"
+    }
+  ]
+}
